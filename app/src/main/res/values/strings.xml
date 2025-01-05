@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">TrackSpendingApp</string>
+    <string-array name="收入支出">
+        <item>收入</item>
+        <item>支出</item>
+    </string-array>
+    <string-array name="收入類別">
+        <item>出租</item>
+        <item>捐贈</item>
+        <item>股息</item>
+        <item>退款</item>
+        <item>薪水</item>
+        <item>買賣</item>
+        <item>獎金</item>
+        <item>優惠券</item>
+        <item>其他</item>
+    </string-array>
+    <string-array name="支出類別">
+        <item>餐飲</item>
+        <item>服裝</item>
+        <item>購物</item>
+        <item>交通</item>
+        <item>家</item>
+        <item>旅行</item>
+        <item>水電費</item>
+        <item>禮品</item>
+        <item>教育</item>
+        <item>運動</item>
+        <item>稅</item>
+        <item>健康</item>
+        <item>娛樂</item>
+        <item>車</item>
+        <item>社交</item>
+        <item>保險</item>
+        <item>寵物</item>
+        <item>美容</item>
+    </string-array>
+</resources>

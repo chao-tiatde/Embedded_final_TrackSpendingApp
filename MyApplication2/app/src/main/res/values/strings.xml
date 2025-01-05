@@ -1,0 +1,18 @@
+<resources>
+    <string-array name="questions">
+        <item>什麼門永遠關不上？</item>
+        <item>什麼東西沒人愛吃？</item>
+        <item>什麼瓜不能吃？</item>
+        <item>什麼布切不斷？</item>
+        <item>什麼鼠最愛乾淨？</item>
+        <item>偷什麼不犯法？</item>
+    </string-array>
+    <string-array name="answers">
+        <item>球門</item>
+        <item>虧</item>
+        <item>傻瓜</item>
+        <item>瀑布</item>
+        <item>環保署</item>
+        <item>偷笑</item>
+    </string-array>
+</resources>
